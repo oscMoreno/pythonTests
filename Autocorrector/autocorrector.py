@@ -9,4 +9,4 @@ def correct_word(word):
         return word
 
 print(correct_word('Me guzta'))
-    
+  
